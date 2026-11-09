@@ -1,0 +1,24 @@
+# Ignorer les datasets
+notebook/
+MyAnimeList-Database-master/
+
+# Ignorer les modèles entraînés
+models/
+
+# Ignorer l'environnement virtuel
+venv/
+env/
+
+# Ignorer les fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Ignorer les variables d'environnement
+.env
+
+# Ignorer les fichiers de configuration des IDE
+.idea/
+.vscode/
+
+# Ignorer les logs
+*.log
